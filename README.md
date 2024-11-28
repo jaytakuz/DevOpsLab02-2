@@ -57,6 +57,7 @@ __Strong text__
 
     Markup :  __Strong text__ or **Strong text**
 
+
 ___Strong emphasized text___
 
 
@@ -167,7 +168,7 @@ Link to a specific part of the page:
 
 Hotkey:
 
-```
+
 <kbd>⌘F</kbd>
 
 
@@ -175,11 +176,11 @@ Hotkey:
 
 
     Markup : <kbd>⌘F</kbd>
-```
+
 
 Hotkey list:
 
-```
+
 | Key | Symbol |
 | --- | --- |
 | Option | ⌥ |
@@ -196,7 +197,7 @@ Hotkey list:
 | Down | ↓ |
 | Left | ← |
 | Right | → |
-```
+
 
 Emoji:
 
@@ -206,4 +207,5 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
     
-:mask:
+:mask: 
+
